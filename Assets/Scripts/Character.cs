@@ -9,6 +9,4 @@ public class Character : ScriptableObject
     public int HP;
     public int MP;
     public Stats stats;
-
-
 }

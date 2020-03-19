@@ -9,4 +9,13 @@ public class Character : ScriptableObject
     public int HP;
     public int MP;
     public Stats stats;
+
+    public int STRMod;
+    public int DEXMod;
+    public int CONMod;
+    public int INTMod;
+    public int WISMod;
+    public int CHAMod;
+
+
 }
